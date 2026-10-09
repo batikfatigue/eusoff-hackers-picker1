@@ -1,0 +1,8 @@
+{
+  "name": "DishDecider",
+  "description": "An intelligent meal picker that selects your next dish based on personal preferences, budget, and dining history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
